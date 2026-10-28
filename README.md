@@ -64,5 +64,111 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Kodi is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://kodi.tv/
+Kodi is an open-source home theater software project that provides a media center platform for playing videos, music, pictures, and games on a wide range of devices and operating systems. It supports a large catalog of community add-ons, offers a customizable 10-foot user interface for TVs, and enables streaming, live TV, and media library management. The project is maintained by the non-profit Kodi Foundation and a global volunteer community, emphasizing openness, extensibility, and cross‑platform compatibility.
+
+**Areas:** Media · Home-Theater · Open-Source · Entertainment · Software
+
+## Kodi on APIs.io
+
+Everything profiled for Kodi is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/kodi/](https://apis.io/providers/kodi/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Kodi Developer Resources](https://apis.io/apis/kodi/kodi-developer-resources/) — Kodi offers developer resources and documentation but does not publish a public API contract.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Kodi Authentication](https://apis.io/security/kodi/kodi-authentication/)
+- [Kodi Domain Security](https://apis.io/security/kodi/kodi-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Kodi Scopes](https://apis.io/scopes/kodi/kodi-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Kodi Plans Pricing](https://apis.io/plans/kodi/kodi-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Kodi Rate Limits](https://apis.io/rate-limits/kodi/kodi-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://kodi.tv/)
+- [Documentation](https://docs.kodi.tv/)
+- [Getting started](https://kodi.tv/download)
+- [Blog](https://kodi.tv/blog)
+- [Terms of service](https://kodi.tv/about/terms-of-service)
+- [Privacy policy](https://kodi.tv/about/privacy-policy)
+- [GitHub](https://github.com/xbmc)
+- [Status](https://status.kodi.tv/)
+
+## API Evangelist rating
+
+**Kin Score 20.8** — emerging · rubric 0.25.0 · scored 2026-10-28
+
+| Facet | Score |
+|---|---|
+| Discoverability | 58.9 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 33.3 |
+| Access clarity | 21.1 |
+
+**Agent readiness 8.5** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 23.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/kodi/](https://apis.io/providers/kodi/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Kodi: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/kodi/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
